@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QR Code Scaner</string>
+    <string name="type_something_here">Type Something Here</string>
+    <string name="generate">Generate</string>
+    <string name="scan">Scan</string>
+    <string name="your_qr_code_will_appear_here_in_this_image_view">Your QR Code will appear here, in this Image View</string>
+</resources>
